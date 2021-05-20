@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I am a **Full-Stack Developer** currently working to gain a *new* long-term position in software development. I am also completely open to collaborating on open-source projects with high social or technical impact and private ventures with appropriate compensation. Feel free to contact me at any time! [andrewc.dev@gmail.com](andrewc.dev@gmail.com)
+I am a **Full-Stack Developer** open to collaborating on open-source projects with high social or technical impact and private ventures with appropriate compensation. Feel free to contact me at any time! [andrewc.dev@gmail.com](andrewc.dev@gmail.com)
 
 ### My Current Preferred Stack:
 - Laravel
