@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-
 I am a **Full-Stack Developer** open to collaborating on open-source projects with high social or technical impact and private ventures with appropriate compensation. Feel free to contact me at any time! [andrewc.dev@gmail.com](andrewc.dev@gmail.com)
 
 ### My Current Preferred Stack:
