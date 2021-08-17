@@ -29,6 +29,7 @@ My previous professional experience focused on **Financial Technologies** incorp
 - Data Structures & Algorithms
 - D3.js
 - Clean Code
+- Amazon Web Services (AWS) Deployment
 
 
 ### Thanks for stopping by! 👋
